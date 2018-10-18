@@ -6,6 +6,8 @@ import android.os.Message;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+
+//啊都会
 public class MainActivity extends AppCompatActivity {
 
     private int time=3;
